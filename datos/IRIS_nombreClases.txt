@@ -1,2 +1,0 @@
-Clase
-na,Setosa,Versicolor,Virginica
